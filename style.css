@@ -1,0 +1,15 @@
+html {
+  font-family: Arial;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.container{
+  border-style: solid;
+}
+
+.italic{
+  font-style: italic;
+}
